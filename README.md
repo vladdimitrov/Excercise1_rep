@@ -6,7 +6,13 @@ Making some changes here in github!!!
 
 RESOLVED
 
-Change file in master brang
+
+Change file in master branch
+
+Hello, again!!!
+
+Resolve new conflict
+
 
 
 
